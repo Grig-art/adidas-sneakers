@@ -11,9 +11,10 @@ body{
 }
 
 .container{
-    min-height: 850px;
+    min-height: 77vh;
     display: flex;
     justify-content: center;
+    align-items:center;
 
     
 }
